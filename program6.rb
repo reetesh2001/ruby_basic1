@@ -6,5 +6,5 @@ a = arr.map() do |ele|
                 ele * 2
     end
 end     
-
+puts "before #{arr}"
 puts a
